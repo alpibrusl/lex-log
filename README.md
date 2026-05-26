@@ -159,3 +159,7 @@ Everything stays as narrow as the work allows:
 * Building log/span/metric records and OTLP payloads is **pure**.
 * Only the actual export crosses an effect boundary: `[net, io]`
   (plus `[time]` for the metrics timestamp).
+
+---
+
+Built under the principles of [Trust Without Comprehension](https://alpibru.com/manifesto).
