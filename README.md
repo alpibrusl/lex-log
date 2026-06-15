@@ -1,5 +1,9 @@
 # lex-log — OpenTelemetry for Lex
 
+[![CI](https://github.com/alpibrusl/lex-log/actions/workflows/ci.yml/badge.svg)](https://github.com/alpibrusl/lex-log/actions/workflows/ci.yml)
+
+**Part of the [Lex](https://lexlang.org) project** — Library · [Manifesto](https://lexlang.org/manifesto) · [All packages](https://lexlang.org)
+
 > **Status: v0.1.** Structured logs, distributed-tracing spans, and
 > metrics for Lex services, exported over OTLP/HTTP JSON (no gRPC
 > dependency) with a zero-config stdout fallback.
