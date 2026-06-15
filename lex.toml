@@ -8,5 +8,5 @@ lex         = "0.9.5"
 [dependencies]
 # The exporter serialises through lex-schema's Json ADT. A git dep so
 # `lex pkg install` resolves it in CI; for local hacking on both repos
-# side by side, swap in `{ path = "../lex-schema" }`.
+# side by side, swap in `{ git = "https://github.com/alpibrusl/lex-schema" }`.
 lex-schema = { git = "https://github.com/alpibrusl/lex-schema" }
