@@ -6,4 +6,4 @@ license     = "EUPL-1.2"
 lex         = "0.9.7"
 
 [dependencies]
-lex-schema = { path = "../lex-schema" }
+lex-schema = { git = "https://github.com/alpibrusl/lex-schema" }
