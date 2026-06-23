@@ -3,7 +3,7 @@ name        = "lex-log"
 version     = "0.1.0"
 description = "OpenTelemetry-compatible structured logging, tracing, and metrics for Lex."
 license     = "EUPL-1.2"
-lex         = "0.9.5"
+lex         = "0.9.12"
 
 [dependencies]
 # The exporter serialises through lex-schema's Json ADT. A git dep so
