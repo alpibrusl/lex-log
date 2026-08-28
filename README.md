@@ -167,3 +167,9 @@ Everything stays as narrow as the work allows:
 ---
 
 Built under the principles of [Trust Without Comprehension](https://lexlang.org/manifesto).
+
+## License
+
+Copyright (c) 2026 lex-log contributors.
+
+Licensed under the [EUPL-1.2](LICENSE) — the European Union Public Licence, as used across the `lex-*` ecosystem.
