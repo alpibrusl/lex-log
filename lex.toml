@@ -1,6 +1,6 @@
 [package]
 name        = "lex-log"
-version     = "0.1.0"
+version     = "0.1.1"
 description = "OpenTelemetry-compatible structured logging, tracing, and metrics for Lex."
 license     = "EUPL-1.2"
 lex         = "0.10.18"
